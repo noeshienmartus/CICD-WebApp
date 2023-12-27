@@ -13,7 +13,7 @@ color = random_color
 messages = [
     "Hello from Weinartzz!",
     "Welcome to our simple web App for the CI/CDz!",
-    "Greetings, from Shienz",
+    "Greetings, from Shienzz",
     "Lloyd says hiz!",
     "Happy new yearz!"
 ]
